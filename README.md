@@ -12,10 +12,13 @@
 インラインのコードは、バッククォート (`` ` ``) で囲みます。
 
 ### ブロックレベル ###
-    function f () {
-        alert(0);  /* 先頭に4文字のスペース、
-                      もしくはタブを挿入します */
-    }
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript">
+    $(function() {
+        alert($); /* 先頭に4文字のスペース、
+                     もしくはタブを挿入します */
+    });
+    </script>
 
 パラメータの解説
 ----------------
@@ -34,12 +37,12 @@
 --------
 ### リンク、ネストしたリスト
 1. [リンク1](http://example.com/ "リンクのタイトル")
-    * ![画像1](http://www.google.com/images/logo_sm.gif "画像のタイトル")
+    * ![画像1](http://github.com/unicorn.png "画像のタイトル")
 2. [リンク2][link]
-    - [![画像2][image]](http://twitter.com)
+    - [![画像2][image]](https://github.com/)
 
   [link]: http://example.com/ "インデックス型のリンク"
-  [image]: http://a0.twimg.com/help/1307051221_4211 "インデックス型の画像"
+  [image]: http://github.com/github.png "インデックス型の画像"
 
 ### 引用、ネストした引用
 > これは引用です。
