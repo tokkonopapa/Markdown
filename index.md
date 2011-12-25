@@ -1,6 +1,6 @@
 ---
-title: このタイトルがないと、HTML 自動変換機能が働かない
-layout: main
+title: この文章が &lt;title&gt; に挿入されます
+layout: default
 ---
 
 ### GitHub ページのサンプル
