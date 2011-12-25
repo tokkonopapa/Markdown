@@ -1,5 +1,5 @@
 ---
-title: This will be used as the title-tag of the page head
+title: このタイトルがないと、HTML 自動変換機能が働かない
 ---
 
 ### GitHub ページのサンプル
