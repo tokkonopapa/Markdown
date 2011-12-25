@@ -1,5 +1,6 @@
 ---
 title: このタイトルがないと、HTML 自動変換機能が働かない
+layout: main
 ---
 
 ### GitHub ページのサンプル
