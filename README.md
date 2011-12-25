@@ -15,11 +15,16 @@ jekyll とは？
 
 	.
 	├─ _config.yml
-	├─ _includes
 	├─ _layouts
-	│   └─ default.html
+	│   ├─ default.html
+	│   ├─ post.html
+	│   └─ ...
+	├─ _includes
+	├─ _posts
+	│   ├─ YYYY-MM-DD-<em>title-of-the-post</em>.(md | textile)
+	│   └─ ...
 	├─ _site
-	└─ index.md
+	└─ index.(md | textile)
 
 + **_config.yml**  
 
@@ -32,5 +37,5 @@ jekyll とは？
 + **index.md**
 
 GitHub Page
-===========
+-----------
 GitHub Page for [tokkonopapa/Markdown](http://tokkonopapa.github.com/Markdown/)
