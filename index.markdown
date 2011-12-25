@@ -1,7 +1,3 @@
----
-title: この文章は GitHub ページの &lt;title&gt; タグに挿入されます
----
-
 ### GitHub ページのサンプル
 
 * list 1
