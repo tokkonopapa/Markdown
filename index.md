@@ -1,6 +1,8 @@
 ---
-title: この文章が &lt;title&gt; に挿入されます
 layout: default
+title: この文章が &lt;title&gt; に挿入されます
+next: /
+previous: /
 ---
 
 ### GitHub ページのサンプル
