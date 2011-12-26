@@ -3,4 +3,4 @@ layout: default
 title: GitHub Markdown Preview
 ---
 
-<iframe src="http://github-markdown-preview.heroku.com/" height="100%" width="100%">&lt;iframe&gt; に対応したブラウザをご利用ください</iframe>
+<iframe src="http://github-markdown-preview.heroku.com/" height="100%" width="100%" frameborder="0">&lt;iframe&gt; に対応したブラウザをご利用ください</iframe>
