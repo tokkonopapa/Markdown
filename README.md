@@ -20,17 +20,22 @@ jekyll とは？
 	│   ├─ post.html
 	│   └─ ...
 	├─ _includes
+	│   ├─ header.html
+	│   ├─ footer.html
+	│   └─ ...
 	├─ _posts
-	│   ├─ YYYY-MM-DD-<em>title-of-the-post</em>.(md | textile)
+	│   ├─ YYYY-MM-DD-title-of-the-post.(md | textile)
 	│   └─ ...
 	├─ _site
 	└─ index.(md | textile)
 
 + **_config.yml**  
 
++ **_layouts**  
+
 + **_includes**  
 
-+ **_layouts**  
++ **_posts**  
 
 + **_site**  
 
