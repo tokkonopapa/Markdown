@@ -9,6 +9,8 @@ title: GitHub Markdown Preview
 行末にスペースを2つ入れると  
 改行されます。
 
+{% gist 1524306 Basic-Structure %}
+
 段落を分けるには、[空行](http://example.com/) を入れます。
 
 使い方
