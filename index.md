@@ -56,8 +56,7 @@ title: GitHub Markdown Preview
 > > GitHubの場合、1行前に空の引用が無いと、正しくマークアップされません。
 
 ### Gist
-<script src="https://gist.github.com/1524306.js">
-</script>
+<script src="https://gist.github.com/1524306.js"> </script>
 
 ライセンス
 ----------
