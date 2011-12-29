@@ -9,8 +9,6 @@ title: GitHub Markdown Preview
 行末にスペースを2つ入れると  
 改行されます。
 
-{% gist 1524306 Basic-Structure %}
-
 段落を分けるには、[空行](http://example.com/) を入れます。
 
 使い方
@@ -56,6 +54,9 @@ title: GitHub Markdown Preview
 > 
 > > スペースを挟んで `>` を重ねると、引用の中で引用ができますが、
 > > GitHubの場合、1行前に空の引用が無いと、正しくマークアップされません。
+
+### Gist
+<script src="https://gist.github.com/1524306.js"></script>
 
 ライセンス
 ----------
