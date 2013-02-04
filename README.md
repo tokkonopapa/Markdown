@@ -1,3 +1,3 @@
 GitHub Page
 -----------
-GitHub Page for [tokkonopapa/Markdown](http://tokkonopapa.github.com/Markdown/)
+GitHub Page for [tokkonopapa/Markdown](https://github.com/tokkonopapa/Markdown)
